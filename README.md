@@ -21,7 +21,7 @@ Daha sonra bulunduğunuz ilin plaka kodunu girerek komut satırından çalışt�
 
 ### Yurtdışı / İlçe Desteği
 
-Eğer şehir için değil ilçe için ezan vakitlerini almak veya yurtdışında bu eklentiyi kullanmak isterseniz [EzanVakti API](http://ezanvakti.herokuapp.com)'dan istediğiniz ilçenin kodunu bulun. Örneğin istanbul için [bu adres](http://ezanvakti.herokuapp.com/ilceler?sehir=539). Buradaki `ilceID` bilgisini alın ve bitbar eklenti dizininizin altına `.ezanvakti` isimli bir dosya oluşturup içine ilçe kodunuzu yazın.
+Eğer şehir için değil ilçe için ezan vakitlerini almak veya yurtdışında bu eklentiyi kullanmak isterseniz [Namaze Vakti API](https://namaz-vakti-api.herokuapp.com)'dan istediğiniz ilçenin kodunu bulun. Örneğin istanbul için [bu adres]([https://namaz-vakti-api.herokuapp.com/ilceler?sehir=539](https://namaz-vakti-api.herokuapp.com/regions?country=2&city=539)). Buradaki `IlceID` bilgisini alın ve bitbar eklenti dizininizin altına `.ezanvakti` isimli bir dosya oluşturup içine ilçe kodunuzu yazın.
 
 ## Uyarı
 
